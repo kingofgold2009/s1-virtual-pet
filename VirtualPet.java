@@ -39,5 +39,14 @@ public class VirtualPet {
     public void wonTheLottery(){
         face.setImage("ecstatic");
     }
+    public void hot() {
+        face.setImage("hot");
+    }
+    public void burning() {
+        face.setImage("burning");
+    }
+    public void cold() {
+        face.setImage("cold");
+    }
 
 } // end Virtual Pet

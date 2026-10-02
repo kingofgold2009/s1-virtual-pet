@@ -4,6 +4,9 @@ public class VPMain {
     VirtualPet vp = new VirtualPet();
     
     public VPMain(){
+        
+        
+        
         vp.feed();
         vp.exercise();
         this.waitABeat(1000);
